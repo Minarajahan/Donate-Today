@@ -21,7 +21,7 @@ h1 {
 
 .frist-button {
     text-decoration: none;
-    background-image: linear-gradient(rgb(31, 224, 224), rgb(250, 103, 80));
+    background-image: linear-gradient(tomato, rgb(231, 114, 96));
     padding: 10px 40px;
     color: white;
     font-weight: 700;
@@ -81,10 +81,11 @@ h1 {
     margin-top: 50px;
 }
 
+
 /* section-03 */
 .third-section {
     text-align: center;
-    height: 650px;
+    height: 600px;
 }
 
 .donate-section {
@@ -105,8 +106,31 @@ h1 {
 
 }
 
-/* BONUS PART  */
-.bonus-part {}
+/* bonus-part-2  */
+.bonus-part {
+    text-align: center;
+    background-color: rgb(241, 247, 247);
+    height: 300px;
+
+}
+
+.input-field {
+    padding: 5px;
+    text-align: center;
+}
+
+.bonus-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, purple);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
 
 /* footer part  */
 .footer-section {
