@@ -1,0 +1,128 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.frist-section {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    padding: 50px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    background-size: cover;
+    height: 600px;
+
+}
+
+.frist-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(31, 224, 224), rgb(250, 103, 80));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.frist-container {
+    margin: 60px;
+    padding: 50px;
+}
+
+/* #second section */
+.second-section {
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 50px;
+    height: 600px;
+
+}
+
+.donate-money {
+    display: flex;
+    margin-left: 120px;
+
+}
+
+.money {
+    width: 250px;
+    padding: 40px;
+    margin: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+#money-200 {
+    color: tomato;
+    border: 2px solid tomato;
+}
+
+
+.input-field {
+    padding: 5px;
+    text-align: center;
+}
+
+.second-button {
+    text-decoration: none;
+    background-image: linear-gradient(cyan, rgb(197, 156, 149));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+/* section-03 */
+.third-section {
+    text-align: center;
+    height: 650px;
+}
+
+.donate-section {
+    margin-top: 100px;
+}
+
+.donate-plan {
+    display: flex;
+}
+
+.donate-plan-1 {
+    padding: 80px;
+    text-align: left;
+
+    margin: 30px;
+    margin-right: 10px;
+    background-color: rgb(228, 236, 243);
+
+}
+
+/* BONUS PART  */
+.bonus-part {}
+
+/* footer part  */
+.footer-section {
+    background-color: black;
+    height: 150px;
+    margin: 0%;
+}
+
+.footer-part-1 {
+    text-align: center;
+
+    color: red;
+    font-style: italic;
+}
+
+.footer-part-2 {
+    text-align: center;
+    color: white;
+}
